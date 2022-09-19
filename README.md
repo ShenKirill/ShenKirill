@@ -8,8 +8,7 @@
   
 ## There are some links to contact me:
   
-<a name="telegram" href="https://t.me/KirillShJsDeveloper![image](https://user-images.githubusercontent.com/108118765/191122920-ced51c81-9329-474c-ae22-6f1c050c8d6b.png)
-"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="telegram" href="https://t.me/KirillShJsDeveloper"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79823289652"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
    
 
